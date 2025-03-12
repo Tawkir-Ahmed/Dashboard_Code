@@ -1,0 +1,53 @@
+*Interstate Highways (Expressways)
+I-24 – Runs from the Kentucky border through Nashville to the Georgia border.
+I-26 – Connects Kingsport to North Carolina.
+I-40 – A major east-west interstate running from the Arkansas border through Memphis, Nashville, and Knoxville to North Carolina.
+I-55 – Passes through Memphis, connecting to Mississippi.
+I-65 – Runs north-south through Nashville, connecting to Alabama and Kentucky.
+I-75 – Passes through Chattanooga and Knoxville, connecting to Georgia and Kentucky.
+I-81 – Connects with I-40 near Dandridge and runs northeast into Virginia.
+I-269 – A bypass around Memphis.
+I-440 – A beltway around Nashville.
+I-640 – A bypass around Knoxville.
+
+
+*Freeway:
+1. Briley Parkway (SR 155) – A beltway around Nashville, connecting I-40, I-24, and I-65.
+2. Interstate 840 (SR 840) – A southern bypass around Nashville, linking I-40, I-65, and I-24.
+3. Bill Morris Parkway (SR 385) – An east-west freeway in Memphis, connecting I-240 and I-269.
+4. Paul Barret Parkway (SR 385) – Part of the Memphis outer loop, connecting I-40 and I-269.
+5. Vietnam Veterans Boulevard (SR 386) – A freeway connecting Nashville to Hendersonville.
+6. Saturn Parkway (SR 396) – A short freeway in Spring Hill, linking I-65 and US 31.
+7. U.S. 27 Freeway (SR 29) – A freeway in Chattanooga and Harriman, linking I-24 and I-40.
+
+
+*Urban:
+1. Interstate 240 (I-240) – A loop around Memphis, connecting I-40 and I-55.
+2. Interstate 440 (I-440) – A bypass around Nashville, linking I-40, I-24, and I-65.
+3. Interstate 640 (I-640) – A northern bypass around Knoxville, connecting I-40 and I-75.
+4. Briley Parkway (SR 155) – A major urban beltway around Nashville.
+5. Sam Cooper Boulevard – An urban expressway in Memphis, linking I-40 to East Memphis.
+6. Germantown Parkway – A key commercial corridor in Memphis, connecting I-40 to Cordova.
+7. Broadway / West End Avenue – A major arterial road in Nashville, running through downtown.
+
+
+*Rural:
+1. U.S. Route 64 (US 64) – Major east-west rural highway from Memphis to Chattanooga.
+2. U.S. Route 127 (US 127) – Key north-south route through Cumberland Plateau.
+3. State Route 111 (SR 111) – Connects Chattanooga, Cookeville, and Livingston, with rural expressway sections.
+4. Natchez Trace Parkway – Scenic historic route from Nashville to Mississippi, restricted commercial traffic.
+5. U.S. Route 70 (US 70) – East-west alternative to I-40, serving rural towns.
+6. U.S. Route 412 (US 412) – Connects Jackson to Dyersburg, important for agriculture.
+
+
+A. AADT Analysis-TN-times
+different urban and rural road= bar chart
+freeway/expressway aadt in different time e.g., I40
+
+
+B. Travel time 
+*road x to road y in min and total miles
+*country to country time in min and total miles
+
+
+
