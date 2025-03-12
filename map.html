@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">
+    <title>E-TRIMS Logon</title>
+
+    
+
+    <link rel="icon" href="/LocalContent/favicon.ico" />
+    <link href="/LocalContent/bootstrap.min.css" rel="stylesheet" />
+    <link href="/LocalContent/Site.css" rel="stylesheet" />
+
+    <script src="/LocalContent/Scripts/modernizr-2.6.2.js"></script>
+    <style type="text/css">
+        #titleblock {
+            background-color: black;
+            background-image: url(/LocalContent/blackgradient.png);
+            background-size: 6px 100%;
+            background-repeat: repeat-x;
+        }
+    </style>
+</head>
+<body>
+    <div class="container body-content">
+        <div class="well well-lg">
+            <img src="/LocalContent/etrimslogo.gif" alt="logo" style="height:80px; padding:20px 10px;" class="pull-left" />
+            <h1>Enhanced Tennessee Roadway Information Management System</h1>
+        </div>
+
+        
+
+<form action="/Account/Logon?url=https%3a%2f%2fe-trims.tdot.tn.gov%2fetrimsol%2fservices%2fapplicationservice%2fexport%2f" method="post"><input name="__RequestVerificationToken" type="hidden" value="kv8QupJOX9tAwVsRYUBTnRx1PbaDuCZEXAv0_aeEX_E2aAx9VH2YhK9SSiaXDCuICAkNuIPX0kS51tEWDQiujPXvLLI1" />    <div class="form-horizontal">
+        
+
+        <a href="/LocalContent/distribution2012.pdf" target="_blank">Disclaimer</a>
+        <h4>Please enter your NET domain username and password. </h4>
+
+        <div class="form-group">
+            <label class="control-label col-md-2" for="UserName">User Name</label>
+            <div class="col-md-10">
+                <input class="text-box single-line" data-val="true" data-val-required="The User Name field is required." id="UserName" name="UserName" type="text" value="" />
+                <span class="field-validation-valid" data-valmsg-for="UserName" data-valmsg-replace="true"></span>
+                <span class="help-block">Your JJ#. For example, jj00000.</span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2" for="Password">Password</label>
+            <div class="col-md-10">
+                <input class="text-box single-line password" data-val="true" data-val-required="The Password field is required." id="Password" name="Password" type="password" value="" />
+                <span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+                <span class="help-block">Your NET domain password.</span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-1">
+                <input type="submit" value="OK" class="btn btn-primary" />
+            </div>
+            <div class="col-md-8">
+                
+            </div>
+        </div>
+
+    </div>
+</form>
+
+
+        <hr /> 
+       
+    </div>
+    
+
+    
+    <script src="/LocalContent/Scripts/jquery-1.11.0.min.js"></script>
+    <script src="/LocalContent/Scripts/jquery.validate.min.js"></script>
+    <script src="/LocalContent/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="/LocalContent/Scripts/bootstrap.min.js"></script>
+    <script src="/LocalContent/Scripts/respond.min.js"></script>
+
+    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            // focus on first text box
+            $("input[type=text]").first().focus();
+        });
+    </script>
+
+
+	<!--<div>From server JJ01SDCWW00090</div>-->
+	
+</body>
+</html>
